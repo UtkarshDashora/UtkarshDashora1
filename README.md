@@ -21,7 +21,7 @@ This portfolio highlights my journey as a Full Stack Developer. It's designed to
 ├── postcss.config.js # PostCSS setup
 ├── favicon.ico # Site icon
 ├── robots.txt # SEO & crawler config
-
+---- 
 🛠️ Technologies Used
 HTML5
 
@@ -32,7 +32,7 @@ TypeScript
 Vite
 
 GitHub Actions (CI/CD)
-
+----
 📬 Contact
 Feel free to reach out for collaborations or job opportunities:
 
@@ -40,6 +40,8 @@ Feel free to reach out for collaborations or job opportunities:
 🔗 LinkedIn
 🌐 Portfolio Website
 
+
+-----
 📄 License
 This project is open-source and available under the MIT License.
 
