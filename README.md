@@ -37,7 +37,9 @@ GitHub Actions (CI/CD)
 Feel free to reach out for collaborations or job opportunities:
 
 📧 utkarshdashora999@gmail.com
+
 🔗 LinkedIn
+
 🌐 Portfolio Website
 
 
