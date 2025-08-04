@@ -40,6 +40,7 @@ Feel free to reach out for collaborations or job opportunities:
 
 🔗 LinkedIn
 
+
 🌐 Portfolio Website
 
 
